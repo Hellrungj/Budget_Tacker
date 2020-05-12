@@ -152,7 +152,7 @@ export default function Layout(props) {
             component={Router_Link}
             to="/"
           >
-            React-Material-UI
+            Budget Tracker
           </Typography>
           {/* 
           <IconButton color="inherit"> 
